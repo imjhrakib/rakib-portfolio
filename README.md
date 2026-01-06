@@ -119,5 +119,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For any questions or suggestions, please contact:
 - **Email**: jhrakib.dev@gmail.com
-- **GitHub**: [jhrakib](https://github.com/jhrakib)
-- **LinkedIn**: [jhrakib](https://linkedin.com/in/jhrakib)
+- **GitHub**: [jhrakib](https://github.com/imjhrakib)
+- **LinkedIn**: [jhrakib](https://www.linkedin.com/in/imjhrakib/)
